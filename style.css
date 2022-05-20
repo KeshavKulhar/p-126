@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-family: 'Macondo', cursive;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    color: blue;
+}
+
+.note{
+    font-size: 15px;
+    color: cyan;
+}
+
+#song_name{
+    font-size: 25px;
+}
